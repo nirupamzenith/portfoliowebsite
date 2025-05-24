@@ -16,6 +16,7 @@ const Contact = () => {
         <button onClick={handleEmailClick}>Email Me</button>
         <button onClick={() => openInNewTab("https://github.com/nirupamzenith")}>
           GitHub
+        </button>
        
       </div>
     </section>
